@@ -7,4 +7,4 @@ Only for test
 <head>
   <meta charset="utf-8">
 
-  <title>The HTML5 Herald</title>
+  <title>Test</title>
